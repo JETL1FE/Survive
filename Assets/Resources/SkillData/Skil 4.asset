@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a5599a1233f3a446bdb70566c8cf317, type: 3}
+  m_Name: Skil 4
+  m_EditorClassIdentifier: 
+  skilIcon: {fileID: 21300000, guid: 09c989090ac9a43b0881ce143ce9b2cb, type: 3}
+  skilName: "\uB2E8\uB2E8\uD55C \uAD6C\uC870\uBB3C"
+  skilDescription: "\uAD6C\uC870\uBB3C\uB4E4\uC758 \uCCB4\uB825\uC744 \uC99D\uAC00\uC2DC\uD0A8\uB2E4."
